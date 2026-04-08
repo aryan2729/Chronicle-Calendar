@@ -1,6 +1,6 @@
 # Chronicle Calendar
 
-**Live Website:** [Open Chronicle Calendar](https://your-live-website-url.com)
+**Live Website:** [Open Chronicle Calendar](https://chronicle-calendar.vercel.app)
 
 A cinematic, festival themed, interactive wall calendar built with Next.js, React, and TypeScript.
 
